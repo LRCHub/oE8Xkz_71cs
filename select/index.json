@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "SNOW FLAKES MEMORIES -28 colors-",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-01-14T03:15:09.538024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/01_SNOW_FLAKES_MEMORIES_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_SNOW_FLAKES_MEMORIES_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Ikaruga Luca Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/03_SNOW_FLAKES_MEMORIES(Ikaruga_Luca_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Aketa Mikoto Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/04_SNOW_FLAKES_MEMORIES(Aketa_Mikoto_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Ikuta Haruki Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/05_SNOW_FLAKES_MEMORIES(Ikuta_Haruki_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Asakura Toru Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/06_SNOW_FLAKES_MEMORIES(Asakura_Toru_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Higuchi Madoka Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/07_SNOW_FLAKES_MEMORIES(Higuchi_Madoka_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Ichikawa Hinana Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/08_SNOW_FLAKES_MEMORIES(Ichikawa_Hinana_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Mitsumine Yuika Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/09_SNOW_FLAKES_MEMORIES(Mitsumine_Yuika_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Mayuzumi Fuyuko Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/10_SNOW_FLAKES_MEMORIES(Mayuzumi_Fuyuko_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Serizawa Asahi Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/11_SNOW_FLAKES_MEMORIES(Serizawa_Asahi_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Izumi Mei Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/12_SNOW_FLAKES_MEMORIES(Izumi_Mei_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Fukumaru Koito Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/13_SNOW_FLAKES_MEMORIES(Fukumaru_Koito_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "SNOW FLAKES MEMORIES（Suzuki Hana Ver.）",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/14_SNOW_FLAKES_MEMORIES(Suzuki_Hana_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SNOW FLAKES MEMORIES",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_SNOW_FLAKES_MEMORIES_シャイニーカラーズ.txt"
+    }
+  ]
+}
